@@ -39,9 +39,16 @@ Tkinter     |
 ##### OBS: Tkinter, Json, OS e Winsound(para windows) são bibliotecas padrões do python, logo não necessitam serem instaladas.  
 ###### NOTE: Tkinter, Json, OS, and Winsound (for Windows) are standard Python libraries, so they do not need to be installed.
 
-~~~bash
+~~~python
 pip install mediapipe
 pip install opencv-python
+~~~
+
+##### Execute
+###### Run
+
+~~~python
+python main.py
 ~~~
 
 Esses são os passos cruciais.  
