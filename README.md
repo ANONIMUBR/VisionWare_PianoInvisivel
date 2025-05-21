@@ -4,8 +4,8 @@
 ##### ALERTA: O PROJETO USA A BIBLIOTECA WINSOUND PARA MANIPULAR OS SONS, O QUE PODE CAUSAR CONFLITOS COM O LINUX
 ###### ALERT: THE PROJECT USES THE WINSOUND LIBRARY TO HANDLE SOUNDS, WHICH MAY CAUSE CONFLICTS WITH LINUX.
 
-[Click here to download python](https://www.python.org/downloads/)
-Por compatibilidade, recomenda-se as versões 3.8 ou no máximo 3.10.
+[Click here to download python](https://www.python.org/downloads/)  
+Por compatibilidade, recomenda-se as versões 3.8 ou no máximo 3.10.  
 For compatibility, versions 3.8 or up to 3.10 are recommended.
 
 ### Após baixar o python  
