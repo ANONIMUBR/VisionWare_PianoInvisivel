@@ -1,3 +1,3 @@
-~~~terminal
+~~~bash
 npm install
 ~~~
