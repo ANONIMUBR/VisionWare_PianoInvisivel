@@ -12,7 +12,7 @@ Por compatibilidade, recomenda-se as versões 3.8 ou no máximo 3.10.
 ###### After downloading python
 
 Crie uma pasta onde colocará os arquivos e, acessando essa pasta pelo terminal, crie seu ambiente de execução e o ative.  
-Create a folder where you will place your files, and by accessing this folder through the terminal, create your execution environment and active it.
+###### Create a folder where you will place your files, and by accessing this folder through the terminal, create your execution environment and active it.
 
 ~~~python
 python3 -m venv .venv
