@@ -45,4 +45,4 @@ pip install opencv-python
 ~~~
 
 Esses são os passos cruciais.  
-######These are the crucial steps.
+###### These are the crucial steps.
